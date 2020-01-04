@@ -1,3 +1,7 @@
 this is init content 14:05:00 4/1/2020
 commit lan 1 14:16:00 4/1/2020  commit lan 1 14:16:00 4/1/2020
+
 commit master lần 2 14:42:00 4/1/2020
+
+dev2 commit on master 15:08:00 4/1/2020
+
